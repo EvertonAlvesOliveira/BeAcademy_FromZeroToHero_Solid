@@ -1,2 +1,7 @@
 # BeAcademy_FromZeroToHero_Solid
-- Single Responsability Principle 5 minutes Open-Closed Principle 5 minutes Liskov Substitution Principle 4 minutes Interface Segregation Principle 5 minutes Dependency Inversion Principle 
+
+- Single Responsability Principle
+- Open-Closed Principle
+- Liskov Substitution Principle
+- Interface Segregation Principle
+- Dependency Inversion Principle
